@@ -218,3 +218,12 @@
     padding: 0.375em;
     text-transform: capitalize;
   }
+
+  /**
+   *  .contact-info
+   */
+
+   .contact-info {
+        font-weight: 600;
+   }
+
